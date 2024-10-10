@@ -26,13 +26,13 @@ More instructions and details will be provided soon.
 
 ## Speech Reconstruction
 
-Below, we provide reconstructed speech samples from DM-Codec and compare them with the reconstructed speech from EnCodec, SpeechTokenizer, and FACodec. Click on the audio files to listen.
+Below, we provide reconstructed speech samples from DM-Codec and compare them with the reconstructed speech from EnCodec, SpeechTokenizer, and FACodec. Download the audio files to listen.
 
 | Codec             | Reconstructed Sample 1                                   | Reconstructed Sample 2                                   |
 |--------------------|---------------------------------------------------------|---------------------------------------------------------|
-| **Original**        | <audio controls><source src="assets/Original_sample_132.flac" type="audio/flac">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/Original_sample_118.flac" type="audio/flac">Your browser does not support the audio element.</audio> |
-| **DM-Codec**        | <audio controls><source src="assets/DM-Codec_sample_132.flac" type="audio/flac">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/DM-Codec_sample_118.flac" type="audio/flac">Your browser does not support the audio element.</audio> |
-| **EnCodec**         | <audio controls><source src="assets/EnCodec_sample_132.flac" type="audio/flac">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/EnCodec_sample_118.flac" type="audio/flac">Your browser does not support the audio element.</audio> |
-| **SpeechTokenizer** | <audio controls><source src="assets/SpeechTokenizer_sample_132.flac" type="audio/flac">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/SpeechTokenizer_sample_118.flac" type="audio/flac">Your browser does not support the audio element.</audio> |
-| **FACodec**         | <audio controls><source src="assets/FACodec_sample_132.flac" type="audio/flac">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/FACodec_sample_118.flac" type="audio/flac">Your browser does not support the audio element.</audio> |
+| **Original**        | [Download Sample 1](assets/Original_sample_132.flac)   | [Download Sample 2](assets/Original_sample_118.flac)   |
+| **DM-Codec**        | [Download Sample 1](assets/DM-Codec_sample_132.flac)   | [Download Sample 2](assets/DM-Codec_sample_118.flac)   |
+| **EnCodec**         | [Download Sample 1](assets/EnCodec_sample_132.flac)    | [Download Sample 2](assets/EnCodec_sample_118.flac)    |
+| **SpeechTokenizer** | [Download Sample 1](assets/SpeechTokenizer_sample_132.flac) | [Download Sample 2](assets/SpeechTokenizer_sample_118.flac) |
+| **FACodec**         | [Download Sample 1](assets/FACodec_sample_132.flac)    | [Download Sample 2](assets/FACodec_sample_118.flac)    |
 
