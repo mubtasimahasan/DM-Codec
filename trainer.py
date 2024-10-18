@@ -1,3 +1,6 @@
+# Builds upon https://github.com/ZhangXInFD/SpeechTokenizer/blob/main/scripts/train_example.py
+# Modifications and additional functionality have been added to tailor the model training for our specific needs.
+
 from pathlib import Path
 import re
 import os
