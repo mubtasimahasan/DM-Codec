@@ -1,5 +1,8 @@
+# You can also pull this image from Docker Hub:
+# docker pull mubtasimahasan/speech-token:latest
+
 # Use the base image
-FROM pytorchlightning/pytorch_lightning:latest
+FROM pytorchlightning/pytorch_lightning:latest-py3.11-torch2.2-cuda12.1.0
 
 # Set the working directory in the container
 WORKDIR /app

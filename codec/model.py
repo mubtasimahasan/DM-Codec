@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 # Reference: https://arxiv.org/abs/2308.16692, https://arxiv.org/pdf/2210.13438
+"""
+Originally created by zhangxin on Aug 30, 2023
+Modified by Md Mubtasim Ahasan on Oct 1, 2024
+"""
 
 from .modules.seanet import SEANetEncoder, SEANetDecoder
 from .quantization  import ResidualVectorQuantizer
